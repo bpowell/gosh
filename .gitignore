@@ -27,3 +27,10 @@ Session.vim
 *~
 # Auto-generated tag files
 tags
+
+/target/
+**/*.rs.bk
+Cargo.lock
+
+/target/
+**/*.rs.bk
